@@ -61,10 +61,6 @@ Credit card fraud is rare: only **0.4% of transactions** are reported as fraudul
 
 ---
 
-## How to Add Your Images
-1. Replace `example_histogram.png` with the actual histogram you plotted using Seaborn.  
-2. Add screenshots or tables for the top anomalous transactions to make the README more visual.  
-3. Upload the images to your GitHub repo and reference them in the Markdown.
 
 ---
 for more details text me via farahwadya@gmail.com
